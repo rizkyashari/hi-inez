@@ -1,4 +1,4 @@
-## Minimal [(Free version)](https://minimal-kit-react.vercel.app/)
+<!-- ## Minimal [(Free version)](https://minimal-kit-react.vercel.app/)
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -46,4 +46,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/minimal-ui-k
 Email: support@minimals.cc
 # hi-inez
 # hi-inez
+# hi-inez -->
 # hi-inez
